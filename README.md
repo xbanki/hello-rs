@@ -1,5 +1,5 @@
 <h1 align="center">
-    <samp>hello-rust</samp>
+    <samp>hello-rs</samp>
 </h1>
 
 <p align="center">
